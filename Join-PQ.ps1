@@ -1,5 +1,5 @@
 $PSDefaultParameterValues = @{
-	"Join-PQ:Destination" = (Get-Location).Path + "\Join-PQ.pq"
+	"Join-PQ:Destination" = (Get-Location).Path + "\JoinPQ.pq"
 }
 
 # Comment-Based Help
